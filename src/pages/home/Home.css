@@ -1,0 +1,11 @@
+.homecontainer{
+    margin-top: 50px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.title{
+    width: 1024px;
+    font-size: 25px;
+}
